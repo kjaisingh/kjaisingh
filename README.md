@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Karan.</h1>
-<h3 align="center">I'm a Computer Science major at the University of Pennsylvania, and I'm interested in everything from Machine Learning to iOS Application Development to Web Development.</h3>
+<h3 align="center">I'm a Computer Science major at the University of Pennsylvania, with an interest in everything from Machine Learning to iOS Application Development to Web Development.</h3>
 
 - 💻 Some of my projects can be found at [http://karanjaisingh.me/](http://karanjaisingh.me/).
 
