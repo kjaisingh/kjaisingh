@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Karan.</h1>
-<h3 align="center">I'm a rising junior at the University of Pennsylvania, with an interest in everything from technology to product development to finance.</h3>
+<h3 align="center">I'm a junior at the University of Pennsylvania, with an interest in everything from technology to product development to finance.</h3>
 
 - 💻 Some of my projects can be found at [http://karanjaisingh.me/](http://karanjaisingh.me/).
 
